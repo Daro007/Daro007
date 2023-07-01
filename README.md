@@ -13,11 +13,11 @@
 
 🛠 Familiar with tools like
 ---
-🔧 GitHub | Bitbucket | Gitlab
-🔧 Terraform | Docker
-🔧 Slack, Teams, Google meet, ecc 
-🔧 Jira, Trello, Monday, ecc 
-🔧 Netlify, Vercel, Firebase 
+• 🔧 GitHub | Bitbucket | Gitlab
+• 🔧 Terraform | Docker
+• 🔧 Slack, Teams, Google meet, ecc 
+• 🔧 Jira, Trello, Monday, ecc 
+• 🔧 Netlify, Vercel, Firebase 
 
 📫🤝🏻 Connect with Me
 ---
