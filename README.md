@@ -13,15 +13,15 @@
 
 🛠 Familiar with tools like
 ---
-• 🔧 GitHub | Bitbucket | Gitlab
+🔧 GitHub | Bitbucket | Gitlab
 
-• 🔧 Terraform | Docker
+🔧 Terraform | Docker
 
-• 🔧 Slack, Teams, Google meet, ecc 
+🔧 Slack, Teams, Google meet, ecc 
 
-• 🔧 Jira, Trello, Monday, ecc 
+🔧 Jira, Trello, Monday, ecc 
 
-• 🔧 Netlify, Vercel, Firebase 
+🔧 Netlify, Vercel, Firebase 
 
 📫🤝🏻 Connect with Me
 ---
