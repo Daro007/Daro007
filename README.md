@@ -4,7 +4,9 @@
 ---
 
 • 🤔 Full Stack Developer! Passionate about creating visually appealing UI and robust backend systems.
+
 • 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
+
 • 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
 
 🛠 Tech Stack
