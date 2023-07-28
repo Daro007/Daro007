@@ -11,16 +11,16 @@
 
 🛠 Tech Stack
 ---
-💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Jest | Cypress | Storybook | Git 
+💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Jest | Cypress | Storybook | Git | Vue | Angular
 
 
 🛠 Familiar with tools like
 ---
-🔧 GitHub | Bitbucket | Gitlab
+🔧 GitHub, Bitbucket, Gitlab
 
-🔧 Terraform | Docker
+🔧 Terraform, Docker
 
-🔧 Slack, Teams, Google meet, ecc 
+🔧 Slack, Teams, Google meet, Discord, ecc 
 
 🔧 Jira, Trello, Monday, ecc 
 
