@@ -24,7 +24,7 @@
 
 🔧 Jira, Trello, Monday, ecc 
 
-🔧 Netlify, Vercel, Firebase 
+🔧 AWS, Netlify, Vercel, Firebase 
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
