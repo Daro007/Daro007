@@ -20,6 +20,8 @@
 ---
 🔧 GitHub, Bitbucket, Gitlab
 
+🔧 Postman, Thunder Client
+
 🔧 Terraform, Docker
 
 🔧 Slack, Teams, Google meet, Discord, ecc 
