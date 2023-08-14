@@ -9,7 +9,7 @@
 
 • 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
 
-• 👨🏻‍💻 Currently studying: Nest JS + DDD + Typescript
+• 👨🏻‍💻 Currently studying: Nest JS + hexagonal architecture + DDD + Typescript
 
 🛠 Tech Stack
 ---
