@@ -9,7 +9,7 @@
 
 • 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
 
-• 👨🏻‍💻 Currently studying: Nest JS + hexagonal architecture + DDD 
+• 👨🏻‍💻 Currently studying: Nest JS + hexagonal architecture + DDD in the context of Microserveces in Lambdas
 
 🛠 Tech Stack
 ---
@@ -22,7 +22,7 @@
 
 🔧 Postman, Thunder Client
 
-🔧 Terraform, Docker
+🔧 Terraform, Docker, Podman 
 
 🔧 Slack, Teams, Google meet, Discord, ecc 
 
