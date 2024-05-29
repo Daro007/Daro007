@@ -9,11 +9,11 @@
 
 • 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
 
-• 👨🏻‍💻 Currently studying: Nest JS + hexagonal architecture + DDD in the context of Microserveces in Lambdas
+• 👨🏻‍💻 Currently working with: Nest JS + hexagonal architecture + DDD in the context of Microserveces and Lambdas
 
 🛠 Tech Stack
 ---
-💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Jest | Cypress | Storybook | Git | Vue | Angular
+💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Nest | Swagger | Jest | Cypress | Storybook | Git | Vue | Angular
 
 
 🛠 Familiar with tools like
