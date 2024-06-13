@@ -7,9 +7,10 @@
 
 • 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
 
+• 👨🏻‍💻 Currently working with: Nest JS + hexagonal architecture + DDD in the context of Microserveces and Lambdas
+
 • 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
 
-• 👨🏻‍💻 Currently working with: Nest JS + hexagonal architecture + DDD in the context of Microserveces and Lambdas
 
 🛠 Tech Stack
 ---
