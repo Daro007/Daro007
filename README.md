@@ -54,7 +54,6 @@
 ---
 [![Linkedin: DarioNicolasElias](https://img.shields.io/badge/-DarioNicolasElias-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dario-nicolas-elias/)](https://www.linkedin.com/in/dario-nicolas-elias)
 [![GitHub Daro007](https://img.shields.io/github/followers/Daro007?label=follow&style=social)](https://github.com/Daro007)
-[![Gmail DarioNicolasElias](https://img.shields.io/badge/Gmail-darionicolaselias%40gmail.com-success)](mailto:darionicolaselias@gmail.com)
 
 
 
