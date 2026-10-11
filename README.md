@@ -1,59 +1,55 @@
-<h1 align="center">Hi 👋, I'm Dario</h1>
-
-👨🏻‍💻 About Me 
----
-
-• 😎 Full Stack Developer! Passionate about creating visually appealing UI and robust backend systems.
-
-• 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
-
-• 👨🏻‍💻 Currently working with: Nest JS + hexagonal architecture + DDD in the context of Microserveces and Lambdas
-
-• 🌟 Other interests: health, fitness, biohacking, reading, NSDR, game theory, stoicism, ecc.  
-
-
-🛠 Tech Stack
----
-💻 HTML5 | CSS3 | Javascript | Typescript | React | Next | Gatsby | Node | Express | Strapi | Nest | Swagger | Jest | Cypress | Storybook | Git | Vue | Angular
-
-
-🛠 Familiar with tools like
----
-🔧 GitHub, Bitbucket, Gitlab
-
-🔧 Postman, Thunder Client
-
-🔧 Terraform, Docker, Podman 
-
-🔧 Slack, Teams, Google meet, Discord, ecc 
-
-🔧 Jira, Trello, Monday, ecc 
-
-🔧 AWS, Netlify, Vercel, Firebase 
-
-<h3 align="left">Languages and Tools:</h3>
-<p> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-     <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7c3aed&height=180&section=header&text=Dario%20Nicolas%20Elias&fontColor=ffffff&fontSize=42&animation=fadeIn" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daro007&show_icons=true&locale=en&layout=compact" alt="daro007" /></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Forward+Deployed+AI+Engineer;AI+Agents+%26+Orchestration;RAG+%26+LLMs+%7C+Decision+Models;POC+%E2%86%92+MVP%2C+fast" />
+</p>
 
+# Hi, I'm Dario
 
-📫🤝🏻 Connect with Me
----
-[![Linkedin: DarioNicolasElias](https://img.shields.io/badge/-DarioNicolasElias-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dario-nicolas-elias/)](https://www.linkedin.com/in/dario-nicolas-elias)
-[![GitHub Daro007](https://img.shields.io/github/followers/Daro007?label=follow&style=social)](https://github.com/Daro007)
+**Forward Deployed AI Engineer · Full Stack (TypeScript / Python)**
 
+I turn business problems into working GenAI solutions, taking them from quick POC to production-ready MVP. I come from full-stack product engineering, and today I spend most of my time on AI agents, orchestration and LLM-powered workflows.
 
+### What I do
+- **AI agents & orchestration**: multi-agent systems with specialized agents, tool use, persistent memory and human-in-the-loop flows
+- **RAG & LLMs**: grounding models in private knowledge bases (Markdown/Obsidian vaults, PDFs, structured data)
+- **POC → MVP**: fast prototyping, then hardening with clean architecture (hexagonal, DDD), tests and IaC
+- **Bridging business & AI**: translating stakeholder needs into scoped, shippable increments (Agile)
 
+### Agentic dev workflow
+I build with AI daily: **Claude Code**, **Gemini CLI**, **Codex**, **Antigravity**, **Cursor** and **Grok Bot**, coordinated through shared agent instructions (`AGENTS.md` / `CLAUDE.md`) and reusable skills.
+I run a personal multi-agent setup with dedicated agents for research and second-brain knowledge management, health data, video and music workflows, crypto analysis and privacy.
+
+### AI toolbox
+
+<p align="center">
+  <img src="./assets/ai-tools.svg" alt="Claude Code, Codex, Gemini CLI, Grok Bot, Antigravity, Cursor" />
+</p>
+
+### Current private projects
+- **SelfOS**: an agent-operated second brain. An Obsidian knowledge base that AI agents read, write and organize, with Telegram as the mobile interface, Git-synced memory, custom agent skills, and integrations (Notion, X, YouTube transcripts, web/browser agents, agent email).
+- **Health Domino**: a personal data and analytics platform. Python pipelines that ingest wearable and fitness APIs and documents, an LLM chat UI, a voice interface, Telegram reminders and an HTML/JS dashboard, all orchestrated by AI agents.
+
+### Stack
+
+<p align="center">
+  <img src="./assets/tech-stack.svg" alt="Tech stack" />
+</p>
+
+**AI**: LLM APIs, agents and tool use, RAG, prompt and context engineering, MCP integrations, decision models (System One: Jev, Clef, Laya) paired with LLMs for typed, low-latency routing and decisions
+**Languages**: TypeScript, JavaScript, Python, SQL
+**Backend**: Node, NestJS, Express, FastAPI, microservices, AWS Lambda
+**Frontend**: React, Next.js
+**Cloud & DevOps**: AWS, Cloudflare (Wrangler CLI), Terraform, Docker, GitHub Actions
+**Data**: PostgreSQL, MySQL, MongoDB
+
+### Beyond code
+Health and biohacking, reading, stoicism, and building systems that make life a little more antifragile.
+
+[LinkedIn](https://www.linkedin.com/in/dario-nicolas-elias)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f172a&height=100&section=footer" />
+</p>
